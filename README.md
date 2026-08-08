@@ -1,3 +1,1 @@
-# Gaurav Lamba — Developer Portfolio
-
-Minimal developer portfolio.
+# Developer Portfolio
